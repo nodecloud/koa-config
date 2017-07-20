@@ -1,4 +1,4 @@
-# koa-config
+# koa-configuration
 
 This middleware is used for mapping /config and /refresh for nodecloud-config-client.
 
@@ -6,7 +6,7 @@ This middleware is used for mapping /config and /refresh for nodecloud-config-cl
 
 ``` javascript
 import Koa from 'koa';
-import KoaConfig from 'koa-config;
+import KoaConfig from 'koa-configuration;
 import ConfigClient from 'nodecloud-config-client';
 
 const app = new Koa();

@@ -1,5 +1,5 @@
 {
-  "name": "koa-config",
+  "name": "koa-configuration",
   "version": "0.0.1",
   "description": "The koa middleware for nodecloud-config-client.",
   "main": "build/index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nodecloud/koa-config.git"
+    "url": "git+https://github.com/nodecloud/koa-configuration.git"
   },
   "keywords": [
     "nodecloud-config-client",
@@ -19,9 +19,9 @@
   "author": "miaowing <i@zfeng.net>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nodecloud/koa-config/issues"
+    "url": "https://github.com/nodecloud/koa-configuration/issues"
   },
-  "homepage": "https://github.com/nodecloud/koa-config#readme",
+  "homepage": "https://github.com/nodecloud/koa-configuration#readme",
   "devDependencies": {
     "babel-cli": "^6.24.1",
     "babel-plugin-transform-decorators-legacy": "^1.3.4",
